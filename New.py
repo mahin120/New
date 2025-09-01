@@ -16,7 +16,7 @@ Logo=f"""\033[0;31m\033[1m
 ................................
 
 Sc Send by: RJ KAMRUL 
-Version: 1.0
+Version: 1.5
 Paid:\033[0;32m\033[1m FREE\033[0;31m\033[1m
 {'='*45}"""
 #/Crate-Password
@@ -29,8 +29,8 @@ pwv.append("kurd1234")
 #/Menu
 def menu():
   os.system('clear')
-  os.system("xdg-open https://t.me/+9llqPQbiQ1hiN2Vl")
-  os.system("xdg-open https://t.me/+9llqPQbiQ1hiN2Vl")
+  os.system("xdg-open https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h")
+  os.system("xdg-open https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h")
   print(Logo)
   print(f'\033[1;37m\033[1m[1]\033[0;32m\033[1m Crack Random [\x1b[1;41mVIP\033[0;30m\033[0;32m\033[1m] ')
   print(f'\033[1;37m\033[1m[2] \033[0;31m\033[1mClose ')
